@@ -78,5 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git@github.com:SmallBookworm/note.git
-  repo: master
+  type: git
+  repo: https://github.com/SmallBookworm/SmallBookworm.github.io
+  branch: master
